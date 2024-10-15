@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**akshaysarve/akshaysarve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm **Akshay Sarve**, a passionate **Software Test Engineer** dedicated to ensuring software quality through manual and automated testing.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Testing Tools:** Selenium, Postman, TestNG, JMeter
+- **Languages:** Java, MySQL
+- **Framework:** Hybrid Framework with using POM
+- **Project Management:** Jira, Trello
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- Email: [sarveakshay@gmail.com](mailto:sarveakshay@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/akshaysarve97/)
+
+Thanks for visiting! 😊
