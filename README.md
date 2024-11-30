@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/jpg/04/98/21/90/1000_F_498219010_sts4fW6sBLPRCGswNHgrdAAWUNPMpLub.jpg)]
+![MasterHead](https://as1.ftcdn.net/jpg/04/98/21/90/1000_F_498219010_sts4fW6sBLPRCGswNHgrdAAWUNPMpLub.jpg)
 <h1 align="center">Hi 👋, I'm Akshay Sarve</h1>
 <h3 align="center">A passionate Software Test Engineer dedicated to ensuring software quality through manual and automated testing.</h3>
 <img align="right" alt="Testing" width="400" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"> 
